@@ -10,6 +10,15 @@ Des skills pour Claude et pour les agents qui lisent le format ouvert Agent Skil
 | [`expert-presentation`](expert-presentation) | Pitch, présentation, slides, prise de parole : cadrer, produire, auditer un support existant. | [docs/expert-presentation.md](docs/expert-presentation.md) |
 | [`l-etabli`](l-etabli) | Conception et fabrication de meubles et d'ouvrages en bois sur mesure, intérieur et extérieur non structurel. Corpus technique sourcé et script de calcul de flèche. | [docs/l-etabli.md](docs/l-etabli.md) |
 
+### Hébergés dans un autre dépôt
+
+Ces deux skills vivent dans [joachimpomme-ctrl/comptable](https://github.com/joachimpomme-ctrl/comptable), avec leur documentation, leurs tests, leurs avertissements et leur propre licence (CC BY-NC 4.0). Ils ne sont pas copiés ici pour éviter deux versions qui divergent.
+
+| Skill | Ce qu'il fait |
+|---|---|
+| `assistant-fiscal-comptable` | Fiscalité et comptabilité françaises : BNC, BIC, location meublée, revenus fonciers, transmission. Règles tracées et paramètres chiffrés sourcés. |
+| `conseiller-patrimoine` | Aide à la décision patrimoniale pour un particulier : placements, crédit, immobilier, retraite. Pas un conseil en investissement. |
+
 ## Installation
 
 Dans Claude (web, bureau, mobile) :
