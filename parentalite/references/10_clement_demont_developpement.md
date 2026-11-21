@@ -154,24 +154,24 @@ Fiches fondées sur les classifications de l'époque (DSM-IV-TR 2004, rapport In
 
 ## 6. Trois âges travaillés
 
-**Garçon de 5 ans, grande section**
+**À 5 ans, grande section**
 1. Sauter à cloche-pied, bien jouer au ballon : attendu entre 5 et 6 ans. Tenir correctement un crayon : dès 4-5 ans (p. 43).
 2. Croire qu'un verre plus haut contient plus d'eau, peiner à se mettre à la place de l'autre : typique de son stade, jusque vers 7 ans. Le jeu de faire semblant en fait partie (p. 58-59).
 3. Juger une bêtise à ses dégâts plutôt qu'à l'intention : attendu jusque vers 9 ans (p. 98). Lui expliquer l'intention plutôt que s'en inquiéter (**hypothèse**).
 4. Moqueries après une dispute plutôt que coups : trajectoire attendue (p. 103). Ne pas le féliciter d'avoir frappé pour ne pas « se laisser faire » (p. 105).
 5. Langage presque adulte, avec quelques erreurs (p. 76). Reconnaître globalement son prénom ou un logo est décrit, sans être une étape obligée (p. 79). L'écrit passe mieux s'il le côtoie tôt, en voit l'utilité et y prend plaisir (p. 78).
 
-**Fille de 8 ans, CE2**
+**À 8 ans, CE2**
 1. Raisonnement concret solide (conserver, classer, ordonner), pas encore d'hypothèses purement verbales : expliquer avec des exemples ou des objets (p. 60).
 2. Après deux ans d'apprentissage formel, la lecture devrait s'automatiser (p. 82 ; CP-CE1 : **hypothèse**). Des confusions d/b ou des inversions qui persistent en CE2 justifient d'en parler à l'enseignante (p. 124 ; démarche **hypothèse**, tirée de l'appel au repérage précoce, p. 127).
 3. Apprendre une leçon s'apprend : se la répéter, l'organiser, s'en faire une image, savoir quand on la sait (p. 69-70).
 4. Stéréotypes de genre bien installés à 8-9 ans (p. 110). L'agression des filles par exclusion et rumeurs est mesurée à 15 ans ; l'extrapoler à 8 ans est une **hypothèse** (p. 106-107).
-5. Seins avant 8 ans, ou règles avant 10 ans : précoce (p. 49). Après 8 ans, début normal (fichier 04, section 3). Pour une fille, le mieux est d'être dans la moyenne (p. 48) ; une fille qui se voit précoce vit plus mal sa puberté, et son vécu compte plus que son corps (p. 49-50). La préparer avant (fichier 04, section 3).
+5. Chez une fille, seins avant 8 ans ou règles avant 10 ans : précoce (p. 49). Après 8 ans, début normal (fichier 04, section 3). Pour une fille, le mieux est d'être dans la moyenne (p. 48) ; une fille qui se voit précoce vit plus mal sa puberté, et son vécu compte plus que son corps (p. 49-50). La préparer avant (fichier 04, section 3).
 
-**Garçon de 11 ans, 6e**
+**À 11 ans, 6e**
 1. Entrée dans la pensée formelle à partir de 11-12 ans : il commence à raisonner sur des hypothèses (p. 61). Discuter les règles en fait partie. Si ces discussions ne sont pas trop fréquentes et ne dégénèrent pas, elles l'aident à faire siennes les valeurs familiales (p. 84-85).
 2. Honte devant ses parents, réaction vive aux critiques, « vous ne me comprendrez jamais » : ce n'est pas de l'égoïsme (p. 85-87). L'égocentrisme adolescent culmine à la transition concret-formel, puis décline (p. 87) ; que ce pic tombe vers son âge est un calcul (p. 61 et 87 ; **hypothèse**). S'il évoque ce que les autres diraient à sa mort, en parler avec lui plutôt que le classer d'office parmi les manifestations banales (p. 86 ; fichier 05, section 6 ; **hypothèse**).
-3. Sa puberté vient en moyenne 2 à 3 ans après celle des filles (p. 47). Le garçon tardif est parmi les plus désavantagés (p. 49) : le rassurer s'il est en retard sur sa classe (**hypothèse**). Début normal entre 9 et 15 ans (fichier 04, section 3).
+3. Chez un garçon, la puberté vient en moyenne 2 à 3 ans après celle des filles (p. 47). Le garçon tardif est parmi les plus désavantagés (p. 49) : le rassurer s'il est en retard sur sa classe (**hypothèse**). Début normal entre 9 et 15 ans (fichier 04, section 3).
 4. Disputes sur les vêtements, la coiffure, les sorties, les notes : attendues, rarement graves (p. 103-104). Plus chargées vers 12-15 ans selon le corpus (fichier 05, section 2).
 5. 15 % des élèves de 6e peinent encore avec l'écrit (p. 82). En cas de difficulté, distinguer retard général et trouble spécifique (p. 82-83) ; un trouble non repéré a des effets en chaîne (p. 126-127).
 
