@@ -253,29 +253,29 @@ Légende : **sûr** = écrit dans le manuel (les études citées le sont de seco
 
 ## 6. Trois âges travaillés
 
-**Garçon de 5 ans, grande section**
+**À 5 ans, grande section**
 1. Cauchemars et terreurs nocturnes fréquents de 3 à 8 ans ; imaginaire et réel se mêlent encore vers 4-6 ans. S'inquiéter s'ils le rendent craintif le jour ; en terreur nocturne, ne pas le réveiller (p. 147, 157). **Sûr.**
 2. Pipi au lit : 10 à 15 % des enfants de son âge, forte part héréditaire, bénin. Ne pas le sanctionner ; en parler au médecin s'il en souffre (p. 147-148). **Sûr** pour les faits, **hypothèse** pour la démarche.
 3. La mort : il peut la croire réversible et se croire responsable (p. 454, 456-457). Dire « il est mort, son corps ne marche plus » plutôt que « il dort », et que ce n'est pas sa faute (p. 456). **Sûr** pour les repères, **hypothèse** pour la formulation.
 4. Quand tu es fâché : avant 6 ans, il ne conçoit pas deux émotions à la fois et peut croire que tu le détestes (p. 180, 242). Dire « je suis fâché de ce que tu as fait, je t'aime toujours », comme la mère d'une mise en situation (p. 176). **Sûr** pour le repère ; récit fictif, pas étude : **hypothèse** pour l'effet.
 5. Coucher : heure fixe, rituel court et calme ; 11 h de sommeil en moyenne à son âge (p. 147). **Sûr.**
-6. Avec un grand frère : les cadets tenteraient d'imiter leurs aînés et deux frères se chamaillent plus que toute autre paire ; une relation chaleureuse de chacun avec toi va avec des relations fraternelles plus positives (p. 184, 247). **Sûr** pour les constats, **hypothèse** pour l'application.
+6. Fratrie : les cadets tenteraient d'imiter leurs aînés et deux frères se chamaillent plus que toute autre paire ; une relation chaleureuse de chacun avec toi va avec des relations fraternelles plus positives (p. 184, 247). **Sûr** pour les constats, **hypothèse** pour l'application.
 
-**Fille de 8 ans, CE2**
-1. Elle sait en général que la mort est définitive et universelle et cherche les causes (p. 454-455) : répondre franchement, avec des détails si elle en demande (p. 457). **Sûr** pour le repère ; conseil conçu pour l'enfant en fin de vie (**hypothèse** pour la transposition).
+**À 8 ans, CE2**
+1. L'enfant sait en général que la mort est définitive et universelle et cherche les causes (p. 454-455) : répondre franchement, avec des détails s'il en demande (p. 457). **Sûr** pour le repère ; conseil conçu pour l'enfant en fin de vie (**hypothèse** pour la transposition).
 2. Devoirs : un lieu et un horaire fixes ; féliciter le travail plutôt que payer les notes (p. 230). À 8 ans, un enfant peut penser seul à noter dans son agenda (p. 221). **Sûr** ; lui transférer peu à peu l'organisation est une **hypothèse** (p. 220-221).
 3. Amitiés : l'ami devient celui avec qui on échange ; vers 9 ans viennent l'intimité, la possessivité, l'exclusivité. Sans aucun ami en fin de primaire, un enfant a plus souvent ensuite une faible estime de soi et des symptômes dépressifs (p. 255-256). **Sûr** (pages réparées) ; y voir un signal à surveiller est une **hypothèse**.
 4. Corps : dès 6 ans, beaucoup de filles voudraient être plus minces, et les attitudes des parents et les médias pèseraient plus que les pairs (Field et al. 2001, sur des ados) (p. 211, 282). Éviter les commentaires sur son poids : **hypothèse**.
 5. Émotions mêlées : vers 8 ans, l'enfant commence à admettre deux émotions contraires, mais seulement si elles portent sur des objets différents ; l'aider à les nommer (p. 242). **Sûr** pour le repère, **hypothèse** pour le geste.
 6. Maux de ventre répétés les matins d'école : chercher d'abord une raison réelle (intimidation, enseignant) avant de penser à une phobie (p. 259-262). **Sûr.**
 
-**Garçon de 11 ans, 6e**
+**À 11 ans, 6e**
 1. Transition scolaire : la motivation baisse souvent à l'entrée au secondaire ; une puberté qui coïncide avec ce passage pèse davantage ; la dépression y augmente et se montre par l'irritabilité, l'ennui, la perte de plaisir ; un jeune sociable qui s'isole doit alerter (p. 276, 287-288, 299). **Sûr** ; l'appliquer à la 6e française est une **hypothèse** (section 1). Un changement qui dure plus de 15 jours mérite un avis (fichier 05, section 6) : **probable**.
 2. Alcool et tabac : premiers essais souvent à la fin du primaire, sous la pression des pairs ; plus tôt, plus d'abus ; en parler ouvertement (p. 286-287). **Sûr** (corrélations nord-américaines). Dire ta désapprobation : relevé pour le tabac (p. 287), **hypothèse** pour l'alcool.
 3. Disputes sur le quotidien : attendues, au plus fort vers 13 ans (p. 323) ; intensité en hausse jusqu'au milieu de l'adolescence selon le corpus (fichier 05, section 2). Exprimer ta déception plutôt que punir sévèrement ; encadrer ses actes, pas ses pensées (p. 324). Lui laisser choisir l'heure de ses devoirs, superviser de loin, laisser jouer les conséquences naturelles (p. 245-246). **Sûr.**
 4. Groupe : pression forte avant l'adolescence, influence maximale vers 12-13 ans (p. 253-254, 326). Intimidation : non victime à 10-11 ans, il a peu de chances de le devenir ; victime, il le reste dans environ la moitié des cas (p. 259). **Sûr** ; en déduire qu'il faut agir tôt est une **hypothèse**.
-5. Puberté : testicules dès 9 ans, mue avec la croissance du pénis, première éjaculation vers 13 ans, gonflement transitoire des seins possible, filles souvent plus grandes que lui de 11 à 13 ans (p. 274-276). **Sûr** ; pour les seuils de précocité, suivre le fichier 04.
-6. Fratrie : avec un petit frère, chamailleries attendues (p. 247) ; avec une sœur, frère et sœur s'éloignent souvent à son âge, puis se rapprochent (p. 325). **Sûr.** S'il perdait un proche, il peut se demander qui s'occuperait de lui et a besoin d'être rassuré (p. 457), **sûr** ; respecter son intimité, lui laisser ses amis : conseil conçu pour l'ado en fin de vie, **hypothèse**.
+5. Puberté du garçon : testicules dès 9 ans, mue avec la croissance du pénis, première éjaculation vers 13 ans, gonflement transitoire des seins possible ; filles souvent plus grandes de 11 à 13 ans (p. 274-276). **Sûr** ; pour les seuils de précocité, suivre le fichier 04.
+6. Fratrie : entre frères, chamailleries attendues (p. 247) ; frère et sœur s'éloignent souvent à cet âge, puis se rapprochent (p. 325). **Sûr.** S'il perdait un proche, il peut se demander qui s'occuperait de lui et a besoin d'être rassuré (p. 457), **sûr** ; respecter son intimité, lui laisser ses amis : conseil conçu pour l'ado en fin de vie, **hypothèse**.
 
 ## Sources hors manuel
 
