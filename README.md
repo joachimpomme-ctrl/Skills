@@ -7,6 +7,7 @@ Des skills pour Claude et pour les agents qui lisent le format ouvert Agent Skil
 | Skill | Ce qu'il fait | Fiche |
 |---|---|---|
 | [`assistant-cuisine`](assistant-cuisine) | Cuisine domestique : goût, science, cuissons, sécurité, menus, substitutions. Inventaire et fiches recettes dans ton Google Drive, en option. | [docs/assistant-cuisine.md](docs/assistant-cuisine.md) |
+| [`expert-presentation`](expert-presentation) | Pitch, présentation, slides, prise de parole : cadrer, produire, auditer un support existant. | [docs/expert-presentation.md](docs/expert-presentation.md) |
 | [`l-etabli`](l-etabli) | Conception et fabrication de meubles et d'ouvrages en bois sur mesure, intérieur et extérieur non structurel. Corpus technique sourcé et script de calcul de flèche. | [docs/l-etabli.md](docs/l-etabli.md) |
 
 ## Installation
