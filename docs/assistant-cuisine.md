@@ -32,11 +32,12 @@ Un skill pour Claude qui répond comme un cuisinier domestique expérimenté : i
 
 Sans Drive, le skill répond à toutes les questions de cuisine.
 
-Si tu connectes ton propre Google Drive à Claude, il peut aussi tenir un inventaire et une bibliothèque de recettes. Il s'appuie sur trois conventions de nommage, dans ton Drive à toi :
+Si tu connectes ton propre Google Drive à Claude, il peut aussi tenir un inventaire et une bibliothèque de recettes. Il s'appuie sur quatre conventions de nommage, dans ton Drive à toi :
 
 - `Inventaire_Cuisine_Dynamique_Actuel` : un document avec quatre sections (Frigo & frais, Épices & aromates séchés, Huiles, vinaigres & condiments, Placard & épicerie).
 - `Recette : [nom] — [produit] — [cuisson]` : une fiche par recette validée.
 - `Profil_Cuisinier_AAAA-MM-JJ` : une synthèse de tes habitudes, générée à la demande.
+- `Plats_Valides` : un Google Sheet des plats que la famille a aimés, avec deux onglets. **Plats** liste chaque plat avec son type, sa saison, une note sur 3, son temps de préparation, la dernière fois qu'il a été servi et une remarque. **Recettes** garde la version cuisinée de chaque plat. Quand tu demandes les menus de la semaine, le skill pioche d'abord dans les plats bien notés, puis met le Sheet à jour quand tu lui dis ce qui a plu. Si ton Sheet porte un autre nom, donne son ID à Claude ou remplace `<ID_DU_SHEET_PLATS_VALIDES>` dans `SKILL.md`.
 
 Le skill ne contient aucun lien vers un Drive. Il ne lit que les documents du compte que tu connectes.
 

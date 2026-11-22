@@ -163,6 +163,15 @@ Déclencheurs : "repas de la semaine", "menus de la semaine", "batch cooking", "
 
 Risque connu : sur un lot de recettes, on lit seulement la sécurité (gem-3), on écrit le reste de mémoire, puis on coupe les étapes de finition pour tenir sur la page. Résultat : des plats justes mais fades ou secs.
 
+**Base des plats validés (facultatif, si Drive est connecté) :**
+- Avant de choisir les plats, chercher via `google_drive_search` le Google Sheet nommé `Plats_Valides` (ou l'ouvrir par son ID si l'utilisateur l'a indiqué : `<ID_DU_SHEET_PLATS_VALIDES>`). Deux onglets :
+  - **Plats** : Plat | Type | Saison | Note /3 | Prépa (min) | Dernière fois | Remarques | Recette dans l'onglet Recettes.
+  - **Recettes** : Plat | Pour | Ingrédients | Étapes, dans la version réellement cuisinée.
+- Composer la semaine avec une majorité de plats notés 3 (ou 2) non servis depuis 3 semaines et de saison, plus 2 plats nouveaux au maximum. Ne pas reproposer tel quel un plat noté 1.
+- Pour un plat déjà présent dans l'onglet Recettes, partir de cette version (ajuster seulement les quantités) au lieu de réécrire la recette.
+- Retour de fin de semaine : quand l'utilisateur donne son avis, mettre à jour la note, la date et la remarque, et ajouter les nouveaux plats aimés avec leur recette telle que cuisinée. Ne jamais noter un plat sans avis explicite.
+- Si le Sheet n'existe pas, le signaler et proposer de le créer avec cette structure. Ne pas le créer sans accord.
+
 **Lectures obligatoires, avant d'écrire la première recette :**
 - `gem-3-securite-conservation.md` : restes, refroidissement, riz cuit, batch cooking, populations sensibles.
 - `gem-1-regles-gout.md` : « Construction des saveurs en couches » et « Ratios de salage de référence ».
